@@ -1,8 +1,6 @@
-# COIMATCHING3 BACKEND
+# COMATCHING3
 
 ### "대학 축제 AI 이성 매칭 서비스"
-
-
 
 ## 프로젝트 소개
 ### 만들게된 계기
@@ -32,11 +30,20 @@
   </tr>
 </table>
 
-
-
-
-
 ### [포인트 충전]
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/COMAtching/.github/blob/main/assets/%EC%BD%94%EB%A7%A4%EC%B9%AD_%EA%B0%80%EC%9E%85.gif?raw=true" width="300">
+    </td>
+    <td>
+      Kakao OAuth2 인증을 활용한 사용자 인증<br>
+      나이, MBTI, 전공 등 사용자 정보 시스템 수집 <br>
+      AI 모델 사용자 정보 학습  <br>
+    </td>
+  </tr>
+</table>
+
 
 ### [매칭]
 
