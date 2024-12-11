@@ -24,10 +24,10 @@
     <td>
       <img src="https://github.com/COMAtching/.github/blob/main/assets/%EC%BD%94%EB%A7%A4%EC%B9%AD_%EA%B0%80%EC%9E%85.gif?raw=true" width="300">
     </td>
-    <td style="vertical-align: top;">
+    <td>
       Kakao OAuth2 인증을 활용한 사용자 인증<br>
-      사용자 정보 입력<br>
-      세 번째 줄의 텍스트입니다.
+      나이, MBTI, 전공 등 사용자 정보 시스템 수집 <br>
+      AI 모델 사용자 정보 학습  <br>
     </td>
   </tr>
 </table>
