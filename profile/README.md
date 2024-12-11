@@ -8,29 +8,30 @@
 ### 만들게된 계기
 코딩 동아리 활동 중 대학교 축제를 준비하면서, 기존에 사람이 수기로 직접 운영하던 이성 매칭 행사를 편리하 웹 서비스로 개선하고자 했습니다.
 
-### 인식한 문제
+### 👀 인식한 문제
  - 대학교 축제때 수기로 받던 이성 매칭 신청이 사람이 많아지면서 너무 많은 자료가 존재함
  - 많은 사람들을 직접 분류하는 과정이 시간이 많이 들었음
  - 분류한 사람들을 특정 기준으로 사람이 직접 매칭하는 시간이 너무 오래 걸렸음
  - 다양한 기준으로 이성을 매칭하기엔 너무 복잡도가 올라감
-
-### 해결책
-
-- 
 
 ### 
 
 ## 🎈 주요 기능
 
 ### [가입 및 신청 폼 작성]
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/COMAtching/.github/blob/main/assets/%EC%BD%94%EB%A7%A4%EC%B9%AD_%EA%B0%80%EC%9E%85.gif?raw=true" 
-       style="margin-right: 10px; width: 300px;">
-  <div>
-    Kakao OAuth2 인증을 활용한 사용자 인증  <br>
-    사용자 취미, 전공, MBTI, 나이 등 정보 수집 <br>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/COMAtching/.github/blob/main/assets/%EC%BD%94%EB%A7%A4%EC%B9%AD_%EA%B0%80%EC%9E%85.gif?raw=true" width="300">
+    </td>
+    <td style="vertical-align: top;">
+      Kakao OAuth2 인증을 활용한 사용자 인증<br>
+      사용자 정보 입력<br>
+      세 번째 줄의 텍스트입니다.
+    </td>
+  </tr>
+</table>
+
 
 
 
