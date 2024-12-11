@@ -15,15 +15,25 @@
  - 다양한 기준으로 이성을 매칭하기엔 너무 복잡도가 올라감
 
 ### 해결책
-![image ]
-- 해결
+
+- 
 
 ### 
 
 ## 🎈 주요 기능
 
 ### [가입 및 신청 폼 작성]
-- 
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/COMAtching/.github/blob/main/assets/%EC%BD%94%EB%A7%A4%EC%B9%AD_%EA%B0%80%EC%9E%85.gif?raw=true" 
+       style="margin-right: 10px; width: 300px;">
+  <div>
+    Kakao OAuth2 인증을 활용한 사용자 인증  <br>
+    사용자 취미, 전공, MBTI, 나이 등 정보 수집 <br>
+  </div>
+</div>
+
+
+
 
 ### [포인트 충전]
 
