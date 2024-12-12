@@ -1,6 +1,10 @@
-# COMATCHING3
+<div align="center">
+  <h1>COMATCHING</h1>
+  <img src="https://github.com/COMAtching/.github/blob/main/assets/github_banner.png?raw=true" alt="banner_image">
+</div>
 
-### "대학 축제 AI 이성 매칭 서비스"
+<br>
+<br>
 
 # 🎈 프로젝트 소개
 ## 만들게된 계기
