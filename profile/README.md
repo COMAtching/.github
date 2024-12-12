@@ -1,3 +1,4 @@
+<img src="https://github.com/COMAtching/.github/blob/main/assets/github_banner.png?raw=true" alt="banner_image">
 
 <table align="center">
   <tr>
@@ -6,8 +7,12 @@
     <td> <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px"></td>
   </tr>
 </table>
-<img src="https://github.com/COMAtching/.github/blob/main/assets/github_banner.png?raw=true" alt="banner_image">
-<br>
+
+<div align="center">
+  가톨릭대학교 COMA 대학 축제 AI 이성매칭 서비스
+</div>
+
+<br><br><br>
 
 # 🎈 프로젝트 소개
 ## 만들게된 계기
