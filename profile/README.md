@@ -9,7 +9,7 @@
 </table>
 
 <div align="center">
-  가톨릭대학교 COMA 대학 축제 AI 이성매칭 서비스
+  가톨릭대학교 중앙 IT동아리 COMA "대학 축제 AI 이성매칭 서비스"
 </div>
 
 <br><br><br>
