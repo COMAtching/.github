@@ -6,23 +6,7 @@
     <td> <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px"></td>
   </tr>
 </table>
-
 <img src="https://github.com/COMAtching/.github/blob/main/assets/github_banner.png?raw=true" alt="banner_image">
-
-<div align="center">
-  <p>
-    <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px">
-  </p>
-  <h1>COMAtching</h1>
-  <p>
-    <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px">
-  </p>
-  
-  <img src="https://github.com/COMAtching/.github/blob/main/assets/github_banner.png?raw=true" alt="banner_image">
-</div>
-
-
-<br>
 <br>
 
 # 🎈 프로젝트 소개
