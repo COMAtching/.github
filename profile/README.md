@@ -1,6 +1,10 @@
 <div align="center">
   
-  <h1><img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true">COMAtching<img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true"></h1>
+  <h1>
+    <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px" style="vertical-align: middle;">
+    COMAtching 
+    <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px" style="vertical-align: middle;">
+  </h1>
   <img src="https://github.com/COMAtching/.github/blob/main/assets/github_banner.png?raw=true" alt="banner_image">
 </div>
 
