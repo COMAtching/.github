@@ -1,12 +1,26 @@
+
+<table align="center">
+  <tr>
+    <td> <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px"> </td>
+    <td> <h1>COMAtching</h1> </td>
+    <td> <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px"></td>
+  </tr>
+</table>
+
+<img src="https://github.com/COMAtching/.github/blob/main/assets/github_banner.png?raw=true" alt="banner_image">
+
 <div align="center">
+  <p>
+    <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px">
+  </p>
+  <h1>COMAtching</h1>
+  <p>
+    <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px">
+  </p>
   
-  <h1>
-    <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px" style="vertical-align: middle;">
-    COMAtching 
-    <img src="https://github.com/COMAtching/.github/blob/main/assets/icon.png?raw=true" width="30px" style="vertical-align: middle;">
-  </h1>
   <img src="https://github.com/COMAtching/.github/blob/main/assets/github_banner.png?raw=true" alt="banner_image">
 </div>
+
 
 <br>
 <br>
