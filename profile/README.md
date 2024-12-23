@@ -139,4 +139,4 @@
 
 
 ## 기술 스택 & 아키텍처
-<img src="https://github.com/COMAtching/.github/blob/main/assets/comatching_diagram.drawio.png?raw=true">
+<img src="https://raw.githubusercontent.com/COMAtching/.github/5910320ae8c785cc5a42affd683fa833659b1924/assets/comatching_diagram.drawio.svg">
